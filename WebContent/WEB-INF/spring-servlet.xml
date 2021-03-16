@@ -17,6 +17,9 @@
 		in the /WEB-INF/views directory -->
 	<beans:bean
 		class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+		
+		<!-- maybe need an @Controllers to .jsp shared strategy?
+ 			teamlevel or global?-->
 		<beans:property name="prefix" value="/WEB-INF/views/" />
 		<beans:property name="suffix" value=".jsp" />
 	</beans:bean>
