@@ -8,7 +8,22 @@
 	<name>Spring MVC Example</name>
 	<description>Spring MVC Hello World Example</description>
 
-	<!-- Add Spring Web and MVC dependencies -->
+
+	  <!-- Peppe -->
+<contributors>
+    <contributor>
+      <name>Peppe</name>
+      <email>peppe@gmail.com</email>
+      <url>http://Peppe.com</url>
+      <organization>Peppe inc.</organization>
+      <organizationUrl>http://Peppe.com</organizationUrl>
+      <roles>
+        <role>Peppe rulez</role>
+      </roles>
+    </contributor>
+</contributors>
+
+
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework</groupId>
